@@ -223,9 +223,10 @@ curl -X POST http://localhost:5000/api/tasks \
 
 ## 👤 Autor
 
-**[Tu Nombre Completo]**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu.email@ejemplo.com
+**Karla Andreina Crespo Casierra**
+**Estudiante de 6to "B" de Ingeniería en Tecnología de la Información"**
+- GitHub: AndreinaC18 (https://github.com/AndreinaC18)
+- Email: crespo202004@gmail.com
 
 ## 📄 Licencia
 
